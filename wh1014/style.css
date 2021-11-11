@@ -1,0 +1,31 @@
+*{
+    font-family: 'Noto Sans Mono', monospace;
+}
+.left{
+    background-color: green;
+}
+
+.right{
+    background-color: orange;
+}
+
+.wrapper{
+    background-color: black;
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    display: inline-block;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.lower{
+    background-color: beige;
+    font-weight: 800;
+}
